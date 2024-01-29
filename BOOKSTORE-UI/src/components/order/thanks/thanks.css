@@ -1,0 +1,12 @@
+#continue-shopping {
+  background-color: #d6be7bde;
+  color: #000;
+  border-color: #EADFB8;
+  border-radius: 5px;
+}
+
+#continue-shopping:hover {
+  background-color: #d6be7bde;
+  color: #000;
+  border-color: #d6be7bde;
+}

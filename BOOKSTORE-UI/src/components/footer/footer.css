@@ -1,0 +1,11 @@
+.footer {
+    position: relative;
+    right: 0;
+    left: 0;
+    width: 100%
+}
+
+.custom-footer-navbar {
+    background-color: #EADFB8;
+    /* Add any additional styles you need */
+}

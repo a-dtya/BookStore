@@ -1,0 +1,21 @@
+
+.loginbtn {
+    color: #000; /* New text color on hover */
+    background-color:#ebcaa8;
+    transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  }
+  
+  .loginbtn:hover {
+    color: #ffffff; /* Default text color */
+    background-color: #f7e19c;
+     /* New background color on hover */
+  }
+  .card-with-shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the shadow as needed */
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  .card-with-shadow:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adjust the hover shadow as needed */
+  }
+  

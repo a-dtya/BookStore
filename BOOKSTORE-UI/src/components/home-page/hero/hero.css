@@ -1,0 +1,10 @@
+.hero-title{
+    font-size: 70px;
+}
+.hero-des{
+    
+    padding: 10px 0px;
+}
+.hero-shadow{
+    text-shadow: 4px 4px 2px black;
+}

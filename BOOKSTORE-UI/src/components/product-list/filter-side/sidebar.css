@@ -1,0 +1,119 @@
+div.small {
+    border-top: 4px solid #8D8741; /* Olive green */
+    margin: 1rem;
+    width: 3rem;
+}
+
+body[dir='rtl'] .breadcrumb-item::before {
+    float: right;
+    padding: 0 10px;
+}
+
+.breadcrumb .breadcrumb-item a {
+    color: #8D8741 !important; /* Olive green */
+    text-decoration: none;
+}
+
+.breadcrumb .nav-link {
+    display: inline-block;
+}
+
+.breadcrumb .active {
+    color: #3E4C59 !important; /* Dark gray */
+}
+
+.product, .breadcrumb-nav {
+    margin: 40px;
+}
+
+div.list-group-item {
+    border: none;
+    background-color: #F0EFE7 !important; /* Light beige */
+}
+
+.form-check-input:checked {
+    background-color: #8D8741 !important; /* Olive green */
+    border-color: #8D8741 !important;
+}
+
+.list-group-item label {
+    color: #65532F; /* Dark brown */
+}
+
+.bi {
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    color: #65532F; /* Dark brown */
+}
+
+.bi:hover {
+    transform: scale(1.1);
+    color: #8D8741; /* Olive green */
+}
+
+/* New styles for Filter component */
+.filter-container {
+    background-color: #F0EFE7; /* Light beige */
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+.filter-title {
+    font-weight: bold;
+    color: #65532F; /* Dark brown */
+    margin-bottom: 0.5rem;
+}
+
+.filter-option {
+    padding: 0.5rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.filter-option:hover {
+    background-color: #E4E1DC; /* Slightly darker beige for hover effect */
+}
+
+.filter-option label {
+    color: #65532F; /* Dark brown */
+    margin-bottom: 0;
+}
+
+.filter-collapse {
+    border-top: 1px solid #D3CEC4; /* Grey for the collapse border */
+    padding-top: 0.5rem;
+}
+
+.price-range {
+    padding: 0.25rem 0;
+}
+
+.price-range input[type="checkbox"] {
+    accent-color: #8D8741; /* Olive green for checkbox color */
+}
+
+/* Styles for the 'Sort By' dropdown to match the filter theme */
+.sort-select .form-select {
+    border: 1px solid #65532F;
+    color: #65532F;
+}
+
+.sort-select .form-select:focus {
+    border-color: #504A4B; /* Darker shade for focus */
+    box-shadow: 0 0 0 0.2rem rgba(141, 135, 65, 0.25);
+}
+
+/* Adjustments for breadcrumb to ensure consistency */
+.breadcrumb-item a {
+    color: #8D8741; /* Olive green */
+    text-decoration: none;
+}
+
+.breadcrumb-item.active {
+    color: #3E4C59; /* Dark gray */
+}

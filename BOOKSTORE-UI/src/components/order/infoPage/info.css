@@ -1,0 +1,17 @@
+#info-save {
+    background-color:#900c3f;
+    color: #fff;
+    border-color: #900c3f;
+    border-radius: 5px;
+  }
+  
+  #info-save:hover {
+    background-color:#900c3fde;
+    color: #fff;
+    border-color: #900c3f;
+  }
+  
+  #order-container{
+    max-height: 511px;
+    overflow-y: auto;
+  }

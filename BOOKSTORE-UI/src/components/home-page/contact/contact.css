@@ -1,0 +1,257 @@
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 50%;
+  position: relative;
+  height: 0;
+}
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+#footer_social a :hover,
+#navy a :hover {
+  color: #000000;
+}
+
+.btn-primary {
+  color: #000;
+  background-color: #EADFB8 !important;
+  border-color: #EADFB8!important;
+  width: 100%;
+  font-family: Arial sans-serif;
+  ;
+}
+
+#Contact a :hover,
+.contact-info i {
+  font-size: 20px;
+  padding-right: 5px;
+  color: #000000 !important;
+}
+
+.contact-info a {
+  color: #000000 !important;
+  text-decoration: none;
+}
+
+#Contact,
+#About {
+  padding-top: 60px;
+}
+
+#About {
+  padding-top: 95px;
+}
+
+
+/* Beautify links */
+
+.mainCOlor {
+  color: #000000;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+.mainCOlor:hover {
+  color: #900c3f;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+/* Adjust text alignment for better aesthetics */
+
+#Contact {
+  text-align: center;
+}
+
+.contact-info {
+  text-align: center;
+}
+
+
+/* Beautify links with shadow on hover */
+
+.mainCOlor {
+  color: #000000;
+  text-decoration: none;
+  transition: text-shadow 0.3s ease-in-out;
+}
+
+.mainCOlor:hover {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+
+/* Custom style for the "Submit" button */
+
+.btn-primary.custom-submit {
+  color: #000000 !important;
+  font-family: Arial sans-serif;
+  font-size: large;
+  /* Set the color to black */
+  background-color: #EADFB8 !important;
+  /* Set the background color, if needed */
+  border-color: #EADFB8 !important;
+  text-shadow: none;
+  /* Remove text shadow on hover, if needed */
+  background-color: #d6be7bde !important;
+  /* Set the background color while hovering */
+  /* Add any additional styles for the hover effect */
+  /* Set the border color, if needed */
+}
+
+
+/* Hover effect for the custom "Submit" button */
+
+.btn-primary.custom-submit:hover {
+  text-shadow: 0;
+  /* Remove text shadow on hover, if needed */
+  /* Add any additional styles for the hover effect */
+}
+
+
+/* Beautify links */
+
+.mainCOlor {
+  color: #000000;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+  margin: 0 10px;
+  /* Add margin for spacing between links */
+}
+
+.mainCOlor:hover {
+  color: #900c3f;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+/* Align text for better aesthetics */
+
+#Contact,
+#About {
+  padding-top: 60px;
+  text-align: center;
+}
+
+.contact-info {
+  text-align: center;
+}
+
+
+/* Beautify links with shadow on hover */
+
+.mainCOlor {
+  color: #000000;
+  text-decoration: none;
+  transition: text-shadow 0.3s ease-in-out;
+}
+
+.mainCOlor:hover {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+
+/* Custom style for the "Submit" button */
+
+.btn-primary.custom-submit {
+  color: #000000 !important;
+  font-family: Arial sans-serif;
+  font-size: large;
+  /* Set the color to black */
+  background-color: #EADFB8 !important;
+  /* Set the background color, if needed */
+  border-color: #EADFB8 !important;
+  /* Set the border color, if needed */
+}
+
+
+/* Hover effect for the custom "Submit" button */
+
+.btn-primary.custom-submit:hover {
+  text-shadow: none;
+  /* Remove text shadow on hover, if needed */
+  background-color: #d6be7bde !important;
+  /* Set the background color while hovering */
+  /* Add any additional styles for the hover effect */
+}
+
+
+/* Align text for better aesthetics */
+
+#Contact,
+#About {
+  padding-top: 60px;
+  text-align: center;
+}
+
+.contact-info {
+  text-align: center;
+}
+
+
+/* Move "Reach out to" text towards the middle */
+
+#Contact p {
+  margin-top: 20px;
+  /* Adjust the margin-top value based on your preference */
+}
+
+
+/* Beautify links */
+
+.mainCOlor {
+  color: #000000;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+  margin: 0 10px;
+  /* Add margin for spacing between links */
+}
+
+.mainCOlor:hover {
+  color: #900c3f;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+/* Beautify links with shadow on hover */
+
+.mainCOlor {
+  color: #000000;
+  text-decoration: none;
+  transition: text-shadow 0.3s ease-in-out;
+}
+
+.mainCOlor:hover {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+
+/* Custom style for the "Submit" button */
+
+.btn-primary.custom-submit {
+  color: #000000 !important;
+  font-family: Arial sans-serif;
+  font-size: large;
+  /* Set the color to black */
+  background-color: #EADFB8 !important;
+  /* Set the background color, if needed */
+  border-color: #EADFB8 !important;
+  /* Set the border color, if needed */
+}
+
+
+/* Hover effect for the custom "Submit" button */
+
+.btn-primary.custom-submit:hover {
+  text-shadow: rgba(0, 0, 0, 0.5);
+  /* Remove text shadow on hover, if needed */
+  background-color: #d6be7bde !important;
+  /* Set the background color while hovering */
+  /* Add any additional styles for the hover effect */
+}

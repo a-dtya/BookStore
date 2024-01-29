@@ -1,0 +1,28 @@
+.star-wrapper {
+  /* position: relative; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.star > button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.FaStar{
+    width: 30px;
+}
+@media screen and (max-width: 1400px) {
+    .FaStar {
+      width: 20px;
+    }
+}
+@media screen and (max-width: 450px) {
+  .FaStar {
+    width: 40px;
+  }
+}
+

@@ -1,0 +1,90 @@
+/* Product.css */
+.sort-select {
+    margin-bottom: 1rem;
+  }
+  
+  .books-not-found {
+    text-align: center;
+    width: 100%;
+    margin-top: 2rem;
+    color: #65532f; /* Dark brown */
+  }
+  
+  .card {
+    transition: transform 0.2s;
+    display: flex;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    border: none;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background: #f0efe7; 
+  }
+  
+  .card-img-top {
+    height: calc(100% - 48px);
+    object-fit: cover;
+  }
+  
+  .card-body {
+    padding: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  
+  .card-price {
+    font-size: 1rem;
+    color: #65532f; 
+  }
+  
+  .card-footer {
+    padding: 0.5rem;
+    background-color: #e4e1dc; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #d3cec4; 
+  }
+  
+  .details-link {
+    padding: 0.3rem 0.6rem;
+    background-color: #8d8741; 
+    color: white;
+    border-radius: 0.25rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .details-link:hover {
+    background-color: #65532f;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  
+  @media (max-width: 767px) {
+    .book-card {
+      flex: 0 0 calc(50% - 20px);
+    }
+  }
+  
+  @media (max-width: 575px) {
+    .book-card {
+      flex: 0 0 100%;
+      margin:10px 0;
+    }
+  }

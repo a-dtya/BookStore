@@ -1,0 +1,82 @@
+:root{
+    --color: #900c3f ;
+    --colorhover: #b94873 ;
+}
+
+#overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0);
+    /* transition: right 0.5s ease; */
+    z-index: 2;
+    cursor: pointer;
+}
+  
+#closeBtn {
+    color: white;
+    font-size: 40px;
+}
+#overlay #closeBtn:hover {
+    color: white !important;
+    font-size: 40px;
+}
+#overlay .close {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+#searchBtn i {
+    color: white;
+    font-size: 30px;
+}
+#searchBtn{
+    background-color: var(--color);
+    padding: 8px 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+/* button search -> dir */
+body[dir='rtl'] .search-input{
+    border-top-right-radius:8px !important;
+    border-bottom-right-radius:8px !important;
+}
+body[dir='rtl']  #searchBtn{
+    border-top-left-radius:8px ;
+    border-bottom-left-radius:8px ;
+}
+body[dir='ltr']  .search-input{
+    border-top-left-radius:8px !important;
+    border-bottom-left-radius:8px !important;
+}
+body[dir='ltr']  #searchBtn{
+    border-top-right-radius:8px ;
+    border-bottom-right-radius:8px ;
+}
+/* ** */
+.form-control{
+    border-radius:0 !important ;
+}
+/*  */
+.icons i{
+    color: white;
+    font-size: 60px;
+}
+.icons i:hover{
+    color: var(--color);
+    font-size: 60px;
+}
+/*  */
+.call{
+    color: white;
+}
+.call i , .call h1{
+    font-size: 50px;
+}
+.call i:hover , .call h1:hover{
+    color: var(--color);
+}

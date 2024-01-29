@@ -1,0 +1,90 @@
+:root{
+  --color: #900c3f ;
+  --colorhover: #b94873 ;
+}
+.zoom {
+    /* background-position: 50% 50%; */
+    position: relative;
+    overflow: hidden;
+    cursor: zoom-in;
+}
+
+.zoom img:hover {
+    opacity: 0;
+}
+
+.zoom img {
+    transition: opacity .5s;
+    display: block;
+    width: 100%;
+    
+}
+
+/* [-] [+] style  */
+.input-container {
+    display: flex;
+    align-items: center;
+    margin-right:10px ;
+    border-bottom: 1px solid rgb(187, 187, 187);
+    border-top: 1px solid rgb(187, 187, 187);
+    border-radius: 10px;
+  }
+  
+  .input-container button {
+    padding: 7px 15px;
+    font-size: 20px;
+    background-color: var(--color);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .input-container button:hover {
+    background-color: var(--colorhover);
+  }
+  
+  .input-container input {
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    text-align: center;
+    width: 50px;
+  }
+  /* button dir */
+  body[dir='rtl'] .minus{
+    border-top-right-radius:8px ;
+    border-bottom-right-radius:8px ;
+  }
+  body[dir='rtl']  .plus{
+    border-top-left-radius:8px ;
+    border-bottom-left-radius:8px ;
+  }
+  body[dir='ltr']  .minus{
+    border-top-left-radius:8px ;
+    border-bottom-left-radius:8px ;
+  }
+  body[dir='ltr']  .plus{
+    border-top-right-radius:8px ;
+    border-bottom-right-radius:8px ;
+  }
+  /* ** */
+  .icon {
+    color: var(--color) !important;
+    border:1px solid var(--color) !important;
+  }
+  .icon:hover {
+    background-color: var(--colorhover) !important;
+    color: white !important;
+  }
+
+  .price {
+    color: var(--color);
+    font-weight: bolder;
+    font-size: 25px;
+  }
+  .bi-star-fill , .bi-star , .bi-star-half{
+    color: var(--color) !important;
+  }

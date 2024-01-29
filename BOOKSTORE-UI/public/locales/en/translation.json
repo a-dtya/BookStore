@@ -1,0 +1,207 @@
+{
+    "description": "Edit src/App.js and save to reload.",
+    "learn": "Learn React",
+    "navbar": {
+      "home": "HOME",
+      "store": "CATEGORIES",
+      "trending": "TRENDING NOW",
+      "about": "ABOUT",
+      "contact": "CONTACT",
+      "trans": "TRANSLATE"
+    },
+    "footer": {
+      "home": "HOME",
+      "store": "CATEGORIES",
+      "trending": "TRENDING NOW",
+      "about": "ABOUT",
+      "contact": "CONTACT",
+      "desc1": "Sapna Book House - Bangalore",
+      "desc2": "Copyright © 2023 All rights reserved"
+    },
+    "home": {
+      "hero": {
+        "title": "Welcome to our Bookstore",
+        "description": "Delighted to offer a diverse range of books to enlighten, educate, and engage our readers."
+      },
+      "category": {
+        "title": "Main Categories",
+        "num-text": "Products",
+        "btn": "Shop Now"
+      },
+      "trending": {
+        "title": "Trending Now",
+        "btn": "View Details"
+      },
+      "about": {
+        "title": "About The Store",
+        "description1": "Established in 2020, our store in Bangalore is a hub for book lovers. Located in the bustling heart of the city, we bring a rich collection of literature.",
+        "description2": "Our team is dedicated to guiding customers to books that match their interests and preferences.",
+        "description3": "We offer a wide range of books in English, Hindi, and regional languages, plus a selection of international bestsellers.",
+        "description4": "Besides books, we also have stationery, educational toys, and various cultural artifacts."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "address1": "MG Road, Bangalore, Karnataka, India",
+        "address2": "Sapna Book House, 3rd Floor, Central Mall",
+        "calling": "08012345678",
+        "email": "service@sapnabookhouse.com",
+        "time": "10AM - 9PM",
+        "qhelp": "how can we assist you?",
+        "l-name": "Name",
+        "l-email": "Email",
+        "l-message": "Message",
+        "btn-submit": "Send Message"
+      }
+    },
+    "product-list": {
+      "shop": {
+        "home": "HOME",
+        "store": "STORE",
+        "title": "BESTSELLERS & INDIAN LITERATURE"
+      },
+      "sort": {
+        "title": "Sort By",
+        "op1": "Price: high to low",
+        "op2": "Price: low to high"
+      },
+      "filter": {
+        "title": "Filter By",
+        "t-price": "Price",
+        "p1": "Under 100 INR",
+        "p2": "100 INR - 250 INR",
+        "p3": "250 INR - 500 INR",
+        "p4": "500 INR - 1000 INR",
+        "p5": "Above 1000 INR",
+        "t-author": "Author"
+      },
+      "product": {
+        "btn": "View Details"
+      }
+    },
+    "product-details": {
+      "home": "HOME",
+      "store": "STORE",
+      "title": "BESTSELLERS & INDIAN LITERATURE",
+      "p-inr": "INR",
+      "t-page": "Pages",
+      "t-category": "Category:",
+      "t-publication": "Publication",
+      "t-author": "Author",
+      "t-shipping": "Shipping",
+      "shipping": "Shipping within India (3-5 Working Days)",
+      "t-policy": "Return Policy",
+      "policy1": "Returns accepted within 7 days of purchase for non-digital items",
+      "policy2": "For merchandise, return in original condition within 14 days",
+      "btn-cart": "Add to cart",
+      "learn": "Learn More",        
+      "related": "Related Products",
+       "p-egp": "INR"
+    },
+    "review": {
+      "title": "Reviews",
+      "l-name": "User Name",
+      "l-message": "Message",
+      "btn": "Submit",
+      "no-comment": "No Reviews yet for this book"
+    },
+    "client-zone": {
+      "client": {
+        "profile": "PROFILE",
+        "reg-title": "REGISTER",
+        "log-title": "LOGIN",
+        "btn-log": "Log Out",
+        "t-profile": "Profile",
+        "t-address": "My Addresses",
+        "t-store": "My Store",
+        "reg-email": "Please enter your Email",
+        "reg-pass": "Please enter your Password",
+        "reg-btn-login": "LOGIN",
+        "reg-account": "Need An Account?",
+        "sign": "SignUp",
+        "account": "Already have an account?",
+        "reg-continue-using": "Or Continue Using",
+        "reg-con-fb": "Continue with Facebook",
+        "reg-con-g": "Continue with Google"
+      },
+      "reg": {
+        "title": "CLIENT ZONE",
+        "email": "please enter your email",
+        "btn-sign": "Sign in or Create an Account",
+        "continue-using": "Or Continue Using",
+        "con-fb": "Continue with Facebook",
+        "con-g": "Continue with Google"
+      },
+      "profile": {
+        "l-fname": "First Name",
+        "l-country": "Country",
+        "l-lname": "Last Name",
+        "l-phone": "Phone",
+        "l-sub": "Subscribe",
+        "sub-text": "Receive our latest news and updates!",
+        "check": "Keep me updated",
+        "btn": "Save"
+      },
+      "myaddress": {
+        "address": {
+          "empty-title": "You still did not save an address",
+          "btn-add": "Add New Address"
+        }
+      },
+      "store": {
+        "title": "Orders"
+      }
+    },
+    "side-cart": {
+      "title": "Your cart",
+      "empty-text": "Your shopping cart is empty",
+      "total": "Total",
+      "btn-delete-all": "EMPTY CART",
+      "btn-order": "PLACE ORDER",
+      "btn-loginFirst": "PLEASE LOGIN TO PLACE AN ORDER",
+      "btn-continue": "CONTINUE SHOPPING"
+    },
+    "order": {
+      "title": "COMPLETE YOUR ORDER",
+      "thanks": "THANK YOU FOR YOUR ORDER!",
+      "btn-continue": "CONTINUE SHOPPING",
+      "info": "Enter your info",
+      "delivery": "Delivery Options",
+      "payment": "Payment",
+      "info-sec": {
+        "l-email": "Email*",
+        "l-name": "Full Name*",
+        "l-country": "Country*",
+        "l-address": "Address*",
+        "l-city": "City*",
+        "l-phone": "Phone*",
+        "l-land": "Landmark (optional)",
+        "btn": "SAVE AND CONTINUE",
+        "quan": "Quantity",
+        "total": "total"
+      },
+      "delivery-sec": {
+        "cairo": "Shipping within Major Cities",
+        "alex": "Shipping to Rural Areas",
+        "canal": "Shipping to Coastal Regions",
+        "upper-eg": "Shipping to Northern States",
+        "sina": "Shipping to Southern States",
+        "delta": "Shipping to Eastern States",
+        "num-day": "(3-7 working days)",
+        "p1": "70 INR",
+        "p2": "100 INR",
+        "p3": "150 INR",
+        "p4": "200 INR",
+        "p5": "120 INR",
+        "p6": "110 INR",
+        "btn": "SAVE AND CONTINUE",
+        "quan": "Quantity",
+        "total": "total"
+      },
+      "payment-sec": {
+        "choose-method": "Please choose your payment method",
+        "cash": "Cash on Delivery",
+        "btn-order": "PLACE ORDER",
+        "alert-comp": "Transaction completed by"
+}
+}
+}

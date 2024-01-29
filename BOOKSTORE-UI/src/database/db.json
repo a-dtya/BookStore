@@ -1,0 +1,220 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author_id": {
+        "id": 1
+      },
+      "title": "Oliver Twist",
+      "cover_image": "https://mpd-biblio-covers.imgix.net/9781466805309.jpg",
+      "pages": 234,
+      "price": 40,
+      "price2": 60,
+      "releaseDate": "1839",
+      "category": 1,
+      "isbn": "wt345",
+      "detailes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Integer id lacus in ligula suscipit dignissim. Mauris nisl augue, feugiat id odio luctus, tristique venenatis nisi. Proin quis lectus nunc. Etiam semper vel leo in scelerisque. Aenean non varius nunc. Vivamus sed rhoncus velit. Morbi consequat laoreet tincidunt. Curabitur ut vestibulum arcu. Maecenas sit amet mi lobortis orci feugiat mattis accumsan vitae risus. Phasellus mattis diam nec felis elementum semper. Integer suscipit sem lectus, sit amet cursus sapien faucibus vel. Pellentesque in nulla placerat, dapibus lectus ac, gravida turpis. In eu volutpat arcu. Donec pretium orci massa, a sagittis ante laoreet quis. Vestibulum vel convallis dolor, eget accumsan nibh."
+    },
+    {
+      "id": 2,
+      "author_id": {
+        "id": 1
+      },
+      "title": "Hard Times",
+      "cover_image": "https://www.loveliestbookgroup.com/wp-content/uploads/2012/01/hardtimes_cover.jpg",
+      "pages": 300,
+      "price": 50,
+      "price2": 70,
+      "releaseDate": "1854",
+      "isbn": "jk654",
+      "detailes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Integer id lacus in ligula suscipit dignissim. Mauris nisl augue, feugiat id odio luctus, tristique venenatis nisi. Proin quis lectus nunc. Etiam semper vel leo in scelerisque. Aenean non varius nunc. Vivamus sed rhoncus velit. Morbi consequat laoreet tincidunt. Curabitur ut vestibulum arcu. Maecenas sit amet mi lobortis orci feugiat mattis accumsan vitae risus. Phasellus mattis diam nec felis elementum semper. Integer suscipit sem lectus, sit amet cursus sapien faucibus vel. Pellentesque in nulla placerat, dapibus lectus ac, gravida turpis. In eu volutpat arcu. Donec pretium orci massa, a sagittis ante laoreet quis. Vestibulum vel convallis dolor, eget accumsan nibh."
+    },
+    {
+      "id": 3,
+      "author_id": {
+        "id": 1
+      },
+      "title": "The Handmaid's Tale",
+      "cover_image": "https://m.media-amazon.com/images/I/71mfL5OGNNL.jpg",
+      "pages": 400,
+      "price": 150,
+      "price2": 200,
+      "releaseDate": "1854",
+      "isbn": "jk654",
+      "detailes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Integer id lacus in ligula suscipit dignissim. Mauris nisl augue, feugiat id odio luctus, tristique venenatis nisi. Proin quis lectus nunc. Etiam semper vel leo in scelerisque. Aenean non varius nunc. Vivamus sed rhoncus velit. Morbi consequat laoreet tincidunt. Curabitur ut vestibulum arcu. Maecenas sit amet mi lobortis orci feugiat mattis accumsan vitae risus. Phasellus mattis diam nec felis elementum semper. Integer suscipit sem lectus, sit amet cursus sapien faucibus vel. Pellentesque in nulla placerat, dapibus lectus ac, gravida turpis. In eu volutpat arcu. Donec pretium orci massa, a sagittis ante laoreet quis. Vestibulum vel convallis dolor, eget accumsan nibh."
+    },
+    {
+      "id": 4,
+      "author_id": {
+        "id": 3
+      },
+      "title": "Hamlet",
+      "cover_image": "https://g.christianbook.com/g/slideshow/7/72789/main/72789_1_ftc_dp.jpg",
+      "pages": 160,
+      "price": 60,
+      "price2": 70,
+      "releaseDate": "1603",
+      "isbn": "po789",
+      "detailes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Integer id lacus in ligula suscipit dignissim. Mauris nisl augue, feugiat id odio luctus, tristique venenatis nisi. Proin quis lectus nunc. Etiam semper vel leo in scelerisque. Aenean non varius nunc. Vivamus sed rhoncus velit. Morbi consequat laoreet tincidunt. Curabitur ut vestibulum arcu. Maecenas sit amet mi lobortis orci feugiat mattis accumsan vitae risus. Phasellus mattis diam nec felis elementum semper. Integer suscipit sem lectus, sit amet cursus sapien faucibus vel. Pellentesque in nulla placerat, dapibus lectus ac, gravida turpis. In eu volutpat arcu. Donec pretium orci massa, a sagittis ante laoreet quis. Vestibulum vel convallis dolor, eget accumsan nibh."
+    },
+    {
+      "id": 5,
+      "author_id": {
+        "id": 2
+      },
+      "title": "IT",
+      "cover_image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982127794/it-9781982127794_hr.jpg",
+      "pages": 500,
+      "price": 70,
+      "price2": 85,
+      "releaseDate": "2017",
+      "isbn": "yu098",
+      "detailes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Integer id lacus in ligula suscipit dignissim. Mauris nisl augue, feugiat id odio luctus, tristique venenatis nisi. Proin quis lectus nunc. Etiam semper vel leo in scelerisque. Aenean non varius nunc. Vivamus sed rhoncus velit. Morbi consequat laoreet tincidunt. Curabitur ut vestibulum arcu. Maecenas sit amet mi lobortis orci feugiat mattis accumsan vitae risus. Phasellus mattis diam nec felis elementum semper. Integer suscipit sem lectus, sit amet cursus sapien faucibus vel. Pellentesque in nulla placerat, dapibus lectus ac, gravida turpis. In eu volutpat arcu. Donec pretium orci massa, a sagittis ante laoreet quis. Vestibulum vel convallis dolor, eget accumsan nibh."
+    },
+    {
+      "id": 6,
+      "author_id": {
+        "id": 4
+      },
+      "title": "Norwegian Wood",
+      "cover_image": "http://t1.gstatic.com/images?q=tbn:ANd9GcQvJJDi2mzwg9v_PlmKYL31gXIz0kvAObJak7DVFPcD_mJTIyec",
+      "pages": 296,
+      "price": 80,
+      "price2": 90,
+      "releaseDate": "1987",
+      "isbn": "hj846",
+      "detailes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Integer id lacus in ligula suscipit dignissim. Mauris nisl augue, feugiat id odio luctus, tristique venenatis nisi. Proin quis lectus nunc. Etiam semper vel leo in scelerisque. Aenean non varius nunc. Vivamus sed rhoncus velit. Morbi consequat laoreet tincidunt. Curabitur ut vestibulum arcu. Maecenas sit amet mi lobortis orci feugiat mattis accumsan vitae risus. Phasellus mattis diam nec felis elementum semper. Integer suscipit sem lectus, sit amet cursus sapien faucibus vel. Pellentesque in nulla placerat, dapibus lectus ac, gravida turpis. In eu volutpat arcu. Donec pretium orci massa, a sagittis ante laoreet quis. Vestibulum vel convallis dolor, eget accumsan nibh."
+    },
+    {
+      "id": 7,
+      "author_id": {
+        "id": 4
+      },
+      "title": "Kafka on the Shore",
+      "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcRHFU_j93PPsbQGqoaZJnHH6-Emk_sIxG823SkoRTL0nvdEP41f",
+      "pages": 505,
+      "price": 90,
+      "price2": 95,
+      "releaseDate": "2002",
+      "isbn": "op012",
+      "detailes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Integer id lacus in ligula suscipit dignissim. Mauris nisl augue, feugiat id odio luctus, tristique venenatis nisi. Proin quis lectus nunc. Etiam semper vel leo in scelerisque. Aenean non varius nunc. Vivamus sed rhoncus velit. Morbi consequat laoreet tincidunt. Curabitur ut vestibulum arcu. Maecenas sit amet mi lobortis orci feugiat mattis accumsan vitae risus. Phasellus mattis diam nec felis elementum semper. Integer suscipit sem lectus, sit amet cursus sapien faucibus vel. Pellentesque in nulla placerat, dapibus lectus ac, gravida turpis. In eu volutpat arcu. Donec pretium orci massa, a sagittis ante laoreet quis. Vestibulum vel convallis dolor, eget accumsan nibh."
+    },
+    {
+      "id": 8,
+      "author_id": {
+        "id": 4
+      },
+      "title": "After Dark",
+      "cover_image": "http://t3.gstatic.com/images?q=tbn:ANd9GcQBMNA8A19vQpNY4bkgadsLhiRUFqBKwKAA6ANrw8VEtOiPrYQJ",
+      "pages": 208,
+      "price": 30,
+      "price2": 45,
+      "releaseDate": "2004",
+      "isbn": "cv456",
+      "detailes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Integer id lacus in ligula suscipit dignissim. Mauris nisl augue, feugiat id odio luctus, tristique venenatis nisi. Proin quis lectus nunc. Etiam semper vel leo in scelerisque. Aenean non varius nunc. Vivamus sed rhoncus velit. Morbi consequat laoreet tincidunt. Curabitur ut vestibulum arcu. Maecenas sit amet mi lobortis orci feugiat mattis accumsan vitae risus. Phasellus mattis diam nec felis elementum semper. Integer suscipit sem lectus, sit amet cursus sapien faucibus vel. Pellentesque in nulla placerat, dapibus lectus ac, gravida turpis. In eu volutpat arcu. Donec pretium orci massa, a sagittis ante laoreet quis. Vestibulum vel convallis dolor, eget accumsan nibh."
+    },
+    {
+      "id": 9,
+      "author_id": {
+        "id": 4
+      },
+      "title": "1Q84",
+      "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcTBQZSg-b2LFkLlt9fWndS1w8SONabDZBHf0dtdb3-bqcuKxduL",
+      "pages": 928,
+      "price": 100,
+      "price2": 120,
+      "releaseDate": "2009",
+      "isbn": "al207",
+      "detailes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Integer id lacus in ligula suscipit dignissim. Mauris nisl augue, feugiat id odio luctus, tristique venenatis nisi. Proin quis lectus nunc. Etiam semper vel leo in scelerisque. Aenean non varius nunc. Vivamus sed rhoncus velit. Morbi consequat laoreet tincidunt. Curabitur ut vestibulum arcu. Maecenas sit amet mi lobortis orci feugiat mattis accumsan vitae risus. Phasellus mattis diam nec felis elementum semper. Integer suscipit sem lectus, sit amet cursus sapien faucibus vel. Pellentesque in nulla placerat, dapibus lectus ac, gravida turpis. In eu volutpat arcu. Donec pretium orci massa, a sagittis ante laoreet quis. Vestibulum vel convallis dolor, eget accumsan nibh."
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Charles",
+      "surname": "Dickens"
+    },
+    {
+      "id": 2,
+      "name": "Stephen",
+      "surname": "King"
+    },
+    {
+      "id": 3,
+      "name": "William",
+      "surname": "Shakespeare"
+    },
+    {
+      "id": 4,
+      "name": "Haruki",
+      "surname": "Murakami"
+    },
+    {
+      "id": 5,
+      "name": "George",
+      "surname": "Geogre Orwell"
+    },
+    {
+      "id": 6,
+      "name": "Robin",
+      "surname": "Robin Sharma"
+    },
+    {
+      "id": 7,
+      "name": "Margret",
+      "surname": "Margret Atwood"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Graphic Novel",
+      "num_books": 17
+    },
+    {
+      "id": 2,
+      "name": "Detective and Mystery",
+      "num_books": 20
+    },
+    {
+      "id": 3,
+      "name": "Fantasy",
+      "num_books": 70
+    },
+    {
+      "id": 4,
+      "name": "Historical Fiction",
+      "num_books": 40
+    },
+    {
+      "id": 5,
+      "name": "Horror",
+      "num_books": 34
+    },
+    {
+      "id": 6,
+      "name": "Science Fiction (Sci-Fi)",
+      "num_books": 54
+    },
+    {
+      "id": 7,
+      "name": "Poetry",
+      "num_books": 10
+    },
+    {
+      "id": 8,
+      "name": "PSYCHOLOGY - SELF HELP",
+      "num_books": 28
+    },
+    {
+      "id": 9,
+      "name": "Suspense and Thrillers",
+      "num_books": 65
+    },
+    {
+      "id": 10,
+      "name": "History",
+      "num_books": 76
+    }
+  ]
+}

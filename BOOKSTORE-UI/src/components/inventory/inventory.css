@@ -1,0 +1,199 @@
+.open-modal-btn {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, box-shadow 0.3s;
+  }
+
+  .open-modal-btn:hover {
+    background-color: #2980b9;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  .book-form {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin: auto;
+  }
+
+  /* Style for form groups (each label + input pair) */
+  .form-group {
+    position: relative;
+    margin-bottom: 15px;
+    padding: 20px;
+    background-color: #f7e19c; 
+    border-radius: 5px;
+  }
+
+  /* Style for labels */
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+  /* Style for text inputs */
+  input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  /* Style for the close button */
+  .close {
+    position: absolute;
+    top: 3px; /* Adjusted position */
+    right: 10px;
+    cursor: pointer;
+    font-size: 24px; /* Larger size */
+    color: #333;
+  }
+
+  /* Style for the submit button */
+  .submit-btn {
+    background-color: #f7e19c;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, box-shadow 0.3s;
+  }
+
+  .submit-btn:hover {
+    background-color: #f7e19c;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  /* AddBookComponent.css */
+
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Header Styles */
+  .header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Modal Styles */
+  .book-form {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 20px;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #000000;
+    border-radius: 8px;
+    z-index: 0;
+  }
+  
+  
+  /* Button Styles */
+  .open-modal-btn,
+  .submit-btn {
+    background-color: #f7e19c;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .open-modal-btn:hover,
+  .submit-btn:hover {
+    background-color: #f7e19c;
+  }
+  
+  /* Search Styles */
+  .search-container {
+    margin-top: 2rem;
+    display: flex;
+    width:50%;
+    margin-left: 25%;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .search-input,
+  .search-btn {
+   
+    margin-left: 66%;
+    margin-bottom: 1rem;
+    margin-right: 0.5rem;
+    padding: 10px 20px;
+  }
+  
+  .search-btn {
+    background-color: #f7e19c;
+    width: 8rem;
+    color: #000000;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s;
+  }
+  
+  .search-btn:hover {
+    background-color: #ebcaa8;
+    border-style:outset;
+    border: #333;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Book Card Styles */
+  .book-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fbfeff;
+    padding: 20px;
+    border: 1px solid #bdc3c7;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .book-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .book-card p {
+    margin: 5px 0;
+  }
+  
+  /* Form Styles */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 600px) {
+    .container {
+      width: 100%;
+      padding: 0 20px;
+    }
+  }
+  
